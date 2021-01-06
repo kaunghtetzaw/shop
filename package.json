@@ -1,5 +1,6 @@
 {
   "name": "storeapp",
+  "author": "KaungHtetZaw",
   "version": "1.0.0",
   "description": "Store App to test NodeJs",
   "main": "app.js",
@@ -8,7 +9,6 @@
     "start": "nodemon app.js",
     "start-server": "node app.js"
   },
-  "author": "KaungHtetZaw",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^1.18.3"
